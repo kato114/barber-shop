@@ -1,0 +1,82 @@
+
+ span.clients-name,
+
+.rating i,
+.editaccount a,
+.blog-meta span i,
+.header .shop-bottom i,
+.team-desc small,
+a:hover,
+a:focus,
+.desc-wrap h4,
+.service-desc i,
+.openinghours li small,
+.section-title h4,
+a.topbutton,
+.recent-posts li p, .recent-posts li:hover a,
+.footer .link-widget ul li:hover a,
+.footer li:hover a {
+	color:#a45c41 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MENU DEFAULT */
+
+.tab-style-1 .nav-tabs > li.active > a {
+	border-top-color: #8c4429 !important;
+}
+.page-wrapper .widget-title hr,
+.custombg,
+.eat-detail hr,
+#sidebar .widget-title hr,
+    .appoform .btn-white,
+    .appoform .form-control,
+.service-desc i,
+a.topbutton {
+	border-color: #8c4429 !important;
+}
+
+.first-accordion .panel-default > .panel-heading i,
+.eat-detail hr::after,
+.eat-detail hr::before,
+.tags a,
+.pricing-box-01 .ribbon-pt2,
+.pagination > li > a,
+.pagination > li > span,
+.contact-details li i,
+.btn-primary,
+.Creative-Button,
+.tp-caption.Creative-Button,
+.navbar-right li.active,
+.navbar-right li:active,
+.navbar-right li {
+	color:#ffffff !important;
+	border-color: #8c4429 !important;
+	background-color: #9A5237 !important;
+}
+.tags a:hover,
+.ui-widget-header,
+.section-title hr,
+.btn-primary:hover,
+.btn-primary:focus,
+.footer .widget-title hr,
+.yamm-content .widget-title hr,
+.Creative-Button:hover,
+.tp-caption.Creative-Button:hover,
+.navbar-right li:hover,
+.navbar-right li:focus{
+	color:#ffffff !important;
+	border-color: #9A5237 !important;
+	background-color: #8c4429 !important;
+}
